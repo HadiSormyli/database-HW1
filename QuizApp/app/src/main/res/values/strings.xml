@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="false_button_text">False</string>
+    <string name="true_button_text">True</string>
+    <string name="pre_button">Previeous</string>
+    <string name="next_button">Next</string>
+    <string name="image_description">Icon Image</string>
+    <string name="corrot_answer">True</string>
+    <string name="wrong_answer">False</string>
+    <string name="question_1">how oawodoawd 1</string>
+    <string name="question_2">how oawodoawd 2</string>
+    <string name="question_3">how oawodoawd 3</string>
+    <string name="question_4">how oawodoawd 4</string>
+    <string name="question_5">how oawodoawd 5</string>
+    <string name="question_6">how oawodoawd 6</string>
+    <string name="question_7">how oawodoawd 7</string>
+    <string name="question_8">how oawodoawd 8</string>
+    <string name="question_9">how oawodoawd 9</string>
+    <string name="question_10">how oawodoawd 10</string>
+    <string name="question_11">how oawodoawd 11</string>
+</resources>
